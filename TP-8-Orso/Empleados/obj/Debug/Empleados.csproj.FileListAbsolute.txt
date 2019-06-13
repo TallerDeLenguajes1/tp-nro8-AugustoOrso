@@ -1,0 +1,7 @@
+C:\Users\Turbo LTSB 64\Desktop\Facultad\Programador\Taller de Lenguaje 1\Practica\TP-8\tp-nro8-AugustoOrso\TP-8-Orso\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\Turbo LTSB 64\Desktop\Facultad\Programador\Taller de Lenguaje 1\Practica\TP-8\tp-nro8-AugustoOrso\TP-8-Orso\Empleados\bin\Debug\Empleados.exe
+C:\Users\Turbo LTSB 64\Desktop\Facultad\Programador\Taller de Lenguaje 1\Practica\TP-8\tp-nro8-AugustoOrso\TP-8-Orso\Empleados\bin\Debug\Empleados.pdb
+C:\Users\Turbo LTSB 64\Desktop\Facultad\Programador\Taller de Lenguaje 1\Practica\TP-8\tp-nro8-AugustoOrso\TP-8-Orso\Empleados\obj\Debug\Empleados.csprojAssemblyReference.cache
+C:\Users\Turbo LTSB 64\Desktop\Facultad\Programador\Taller de Lenguaje 1\Practica\TP-8\tp-nro8-AugustoOrso\TP-8-Orso\Empleados\obj\Debug\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Turbo LTSB 64\Desktop\Facultad\Programador\Taller de Lenguaje 1\Practica\TP-8\tp-nro8-AugustoOrso\TP-8-Orso\Empleados\obj\Debug\Empleados.exe
+C:\Users\Turbo LTSB 64\Desktop\Facultad\Programador\Taller de Lenguaje 1\Practica\TP-8\tp-nro8-AugustoOrso\TP-8-Orso\Empleados\obj\Debug\Empleados.pdb
